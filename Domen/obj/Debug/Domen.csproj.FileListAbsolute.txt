@@ -1,0 +1,21 @@
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\Domen\bin\Debug\Domen.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\Domen\bin\Debug\Domen.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\Domen\obj\Debug\Domen.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\Domen\obj\Debug\Domen.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\Domen\bin\Debug\Domen.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\Domen\bin\Debug\Domen.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\Domen\obj\Debug\Domen.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\Domen\obj\Debug\Domen.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\Domen\bin\Debug\Domen.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\Domen\bin\Debug\Domen.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\Domen\obj\Debug\Domen.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\Domen\obj\Debug\Domen.pdb
+C:\Users\LEPI\Desktop\RentACar2\Domen\bin\Debug\Domen.dll
+C:\Users\LEPI\Desktop\RentACar2\Domen\bin\Debug\Domen.pdb
+C:\Users\LEPI\Desktop\RentACar2\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\LEPI\Desktop\RentACar2\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\LEPI\Desktop\RentACar2\Domen\obj\Debug\Domen.dll
+C:\Users\LEPI\Desktop\RentACar2\Domen\obj\Debug\Domen.pdb

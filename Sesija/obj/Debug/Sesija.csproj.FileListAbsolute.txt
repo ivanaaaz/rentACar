@@ -1,0 +1,39 @@
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\Sesija\bin\Debug\Sesija.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\Sesija\bin\Debug\Domen.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\Sesija\bin\Debug\Domen.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\Sesija\obj\Debug\Sesija.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\Sesija\bin\Debug\Sesija.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\Sesija\bin\Debug\Domen.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\Sesija\bin\Debug\Domen.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\Sesija\obj\Debug\Sesija.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\Sesija\bin\Debug\Sesija.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\Sesija\bin\Debug\Domen.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\Sesija\bin\Debug\Domen.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\Sesija\obj\Debug\Sesija.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\Sesija\obj\Debug\Sesija.pdb
+C:\Users\LEPI\Desktop\RentACar2\Sesija\bin\Debug\Sesija.dll
+C:\Users\LEPI\Desktop\RentACar2\Sesija\bin\Debug\Sesija.pdb
+C:\Users\LEPI\Desktop\RentACar2\Sesija\bin\Debug\Domen.dll
+C:\Users\LEPI\Desktop\RentACar2\Sesija\bin\Debug\Domen.pdb
+C:\Users\LEPI\Desktop\RentACar2\Sesija\obj\Debug\Sesija.csprojAssemblyReference.cache
+C:\Users\LEPI\Desktop\RentACar2\Sesija\obj\Debug\Sesija.csproj.CoreCompileInputs.cache
+C:\Users\LEPI\Desktop\RentACar2\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+C:\Users\LEPI\Desktop\RentACar2\Sesija\obj\Debug\Sesija.dll
+C:\Users\LEPI\Desktop\RentACar2\Sesija\obj\Debug\Sesija.pdb
+C:\Users\ACER\Desktop\RentACar\Sesija\bin\Debug\Sesija.dll
+C:\Users\ACER\Desktop\RentACar\Sesija\bin\Debug\Sesija.pdb
+C:\Users\ACER\Desktop\RentACar\Sesija\bin\Debug\Domen.dll
+C:\Users\ACER\Desktop\RentACar\Sesija\bin\Debug\Domen.pdb
+C:\Users\ACER\Desktop\RentACar\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\RentACar\Sesija\obj\Debug\Sesija.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\RentACar\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+C:\Users\ACER\Desktop\RentACar\Sesija\obj\Debug\Sesija.dll
+C:\Users\ACER\Desktop\RentACar\Sesija\obj\Debug\Sesija.pdb

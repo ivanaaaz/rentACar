@@ -1,0 +1,69 @@
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\ServerApp\bin\Debug\Domen.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\ServerApp\bin\Debug\Sesija.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\ServerApp\bin\Debug\Domen.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\ServerApp\bin\Debug\Sesija.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.Cache
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\ServerApp\obj\Debug\ServerApp.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\ServerApp\obj\Debug\ServerApp.ServerForma.resources
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\ServerApp\obj\Debug\ServerApp.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\ServerApp\bin\Debug\Domen.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\ServerApp\bin\Debug\Sesija.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\ServerApp\bin\Debug\Domen.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\ServerApp\bin\Debug\Sesija.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\ServerApp\obj\Debug\ServerApp.ServerForma.resources
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.Cache
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\ServerApp\obj\Debug\ServerApp.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\ServerApp\bin\Debug\Domen.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\ServerApp\bin\Debug\Sesija.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\ServerApp\bin\Debug\Domen.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\ServerApp\bin\Debug\Sesija.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\ServerApp\obj\Debug\ServerApp.ServerForma.resources
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.Cache
+C:\Users\LEPI\Desktop\RentACar2\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\LEPI\Desktop\RentACar2\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\LEPI\Desktop\RentACar2\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\LEPI\Desktop\RentACar2\ServerApp\bin\Debug\Domen.dll
+C:\Users\LEPI\Desktop\RentACar2\ServerApp\bin\Debug\Sesija.dll
+C:\Users\LEPI\Desktop\RentACar2\ServerApp\bin\Debug\Domen.pdb
+C:\Users\LEPI\Desktop\RentACar2\ServerApp\bin\Debug\Sesija.pdb
+C:\Users\LEPI\Desktop\RentACar2\ServerApp\obj\Debug\ServerApp.csprojAssemblyReference.cache
+C:\Users\LEPI\Desktop\RentACar2\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+C:\Users\LEPI\Desktop\RentACar2\ServerApp\obj\Debug\ServerApp.ServerForma.resources
+C:\Users\LEPI\Desktop\RentACar2\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.cache
+C:\Users\LEPI\Desktop\RentACar2\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\LEPI\Desktop\RentACar2\ServerApp\obj\Debug\ServerApp.csproj.CopyComplete
+C:\Users\LEPI\Desktop\RentACar2\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\LEPI\Desktop\RentACar2\ServerApp\obj\Debug\ServerApp.pdb
+C:\Users\ACER\Desktop\RentACar\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\ACER\Desktop\RentACar\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\ACER\Desktop\RentACar\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\ACER\Desktop\RentACar\ServerApp\bin\Debug\Domen.dll
+C:\Users\ACER\Desktop\RentACar\ServerApp\bin\Debug\Sesija.dll
+C:\Users\ACER\Desktop\RentACar\ServerApp\bin\Debug\Domen.pdb
+C:\Users\ACER\Desktop\RentACar\ServerApp\bin\Debug\Sesija.pdb
+C:\Users\ACER\Desktop\RentACar\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\RentACar\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+C:\Users\ACER\Desktop\RentACar\ServerApp\obj\Debug\ServerApp.ServerForma.resources
+C:\Users\ACER\Desktop\RentACar\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\RentACar\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\RentACar\ServerApp\obj\Debug\ServerApp.csproj.CopyComplete
+C:\Users\ACER\Desktop\RentACar\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\ACER\Desktop\RentACar\ServerApp\obj\Debug\ServerApp.pdb

@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1AB270D1-0FAE-4DC0-85DA-AC130BB94D13}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KlijentApp</RootNamespace>
+    <AssemblyName>KlijentApp</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DetaljiRentiranja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetaljiRentiranja.Designer.cs">
+      <DependentUpon>DetaljiRentiranja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DetaljiVozila.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetaljiVozila.Designer.cs">
+      <DependentUpon>DetaljiVozila.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Komunikacija.cs" />
+    <Compile Include="KontrolerKI.cs" />
+    <Compile Include="PocetnaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PocetnaForma.Designer.cs">
+      <DependentUpon>PocetnaForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PretragaKlijenata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PretragaKlijenata.Designer.cs">
+      <DependentUpon>PretragaKlijenata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PretragaVozila.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PretragaVozila.Designer.cs">
+      <DependentUpon>PretragaVozila.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnosKlijenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnosKlijenta.Designer.cs">
+      <DependentUpon>UnosKlijenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UnosRentiranja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnosRentiranja.Designer.cs">
+      <DependentUpon>UnosRentiranja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UnosVozila.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnosVozila.Designer.cs">
+      <DependentUpon>UnosVozila.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DetaljiRentiranja.resx">
+      <DependentUpon>DetaljiRentiranja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetaljiVozila.resx">
+      <DependentUpon>DetaljiVozila.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PocetnaForma.resx">
+      <DependentUpon>PocetnaForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PretragaKlijenata.resx">
+      <DependentUpon>PretragaKlijenata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PretragaVozila.resx">
+      <DependentUpon>PretragaVozila.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UnosKlijenta.resx">
+      <DependentUpon>UnosKlijenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UnosRentiranja.resx">
+      <DependentUpon>UnosRentiranja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UnosVozila.resx">
+      <DependentUpon>UnosVozila.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Domen\Domen.csproj">
+      <Project>{3eadfeac-7bbf-4d01-80d1-d3a445cf612f}</Project>
+      <Name>Domen</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

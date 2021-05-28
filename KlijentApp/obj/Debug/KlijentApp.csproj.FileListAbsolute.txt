@@ -1,0 +1,84 @@
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\KlijentApp\bin\Debug\KlijentApp.exe.config
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\KlijentApp\bin\Debug\KlijentApp.exe
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\KlijentApp\bin\Debug\KlijentApp.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\KlijentApp\bin\Debug\Domen.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\KlijentApp\bin\Debug\Domen.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\KlijentApp\obj\Debug\KlijentApp.csprojResolveAssemblyReference.cache
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\KlijentApp\obj\Debug\KlijentApp.Properties.Resources.resources
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\KlijentApp\obj\Debug\KlijentApp.csproj.GenerateResource.Cache
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\KlijentApp\obj\Debug\KlijentApp.exe
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\KlijentApp\obj\Debug\KlijentApp.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\TemplateSem\KlijentApp\obj\Debug\KlijentApp.PocetnaForma.resources
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\KlijentApp\bin\Debug\KlijentApp.exe.config
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\KlijentApp\bin\Debug\KlijentApp.exe
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\KlijentApp\bin\Debug\KlijentApp.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\KlijentApp\bin\Debug\Domen.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\KlijentApp\bin\Debug\Domen.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\KlijentApp\obj\Debug\KlijentApp.csprojResolveAssemblyReference.cache
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\KlijentApp\obj\Debug\KlijentApp.PocetnaForma.resources
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\KlijentApp\obj\Debug\KlijentApp.Properties.Resources.resources
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\KlijentApp\obj\Debug\KlijentApp.csproj.GenerateResource.Cache
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\KlijentApp\obj\Debug\KlijentApp.exe
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\KlijentApp\obj\Debug\KlijentApp.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\KlijentApp\obj\Debug\KlijentApp.UnosVozila.resources
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\KlijentApp\obj\Debug\KlijentApp.PretragaVozila.resources
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\KlijentApp\obj\Debug\KlijentApp.DetaljiVozila.resources
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar\KlijentApp\obj\Debug\KlijentApp.UnosRentiranja.resources
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\KlijentApp\bin\Debug\KlijentApp.exe.config
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\KlijentApp\bin\Debug\KlijentApp.exe
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\KlijentApp\bin\Debug\KlijentApp.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\KlijentApp\bin\Debug\Domen.dll
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\KlijentApp\bin\Debug\Domen.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\KlijentApp\obj\Debug\KlijentApp.csprojResolveAssemblyReference.cache
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\KlijentApp\obj\Debug\KlijentApp.DetaljiVozila.resources
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\KlijentApp\obj\Debug\KlijentApp.PocetnaForma.resources
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\KlijentApp\obj\Debug\KlijentApp.PretragaVozila.resources
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\KlijentApp\obj\Debug\KlijentApp.Properties.Resources.resources
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\KlijentApp\obj\Debug\KlijentApp.UnosRentiranja.resources
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\KlijentApp\obj\Debug\KlijentApp.UnosVozila.resources
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\KlijentApp\obj\Debug\KlijentApp.csproj.GenerateResource.Cache
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\KlijentApp\obj\Debug\KlijentApp.exe
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\KlijentApp\obj\Debug\KlijentApp.pdb
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\KlijentApp\obj\Debug\KlijentApp.UnosKlijenta.resources
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\KlijentApp\obj\Debug\KlijentApp.PretragaKlijenata.resources
+C:\Users\Lepi\Documents\Visual Studio 2015\Projects\PS2018\Sem2018\M&M\RentACar2\KlijentApp\obj\Debug\KlijentApp.DetaljiRentiranja.resources
+C:\Users\LEPI\Desktop\RentACar2\KlijentApp\bin\Debug\KlijentApp.exe.config
+C:\Users\LEPI\Desktop\RentACar2\KlijentApp\bin\Debug\KlijentApp.exe
+C:\Users\LEPI\Desktop\RentACar2\KlijentApp\bin\Debug\KlijentApp.pdb
+C:\Users\LEPI\Desktop\RentACar2\KlijentApp\bin\Debug\Domen.dll
+C:\Users\LEPI\Desktop\RentACar2\KlijentApp\bin\Debug\Domen.pdb
+C:\Users\LEPI\Desktop\RentACar2\KlijentApp\obj\Debug\KlijentApp.csprojAssemblyReference.cache
+C:\Users\LEPI\Desktop\RentACar2\KlijentApp\obj\Debug\KlijentApp.DetaljiRentiranja.resources
+C:\Users\LEPI\Desktop\RentACar2\KlijentApp\obj\Debug\KlijentApp.DetaljiVozila.resources
+C:\Users\LEPI\Desktop\RentACar2\KlijentApp\obj\Debug\KlijentApp.PocetnaForma.resources
+C:\Users\LEPI\Desktop\RentACar2\KlijentApp\obj\Debug\KlijentApp.PretragaKlijenata.resources
+C:\Users\LEPI\Desktop\RentACar2\KlijentApp\obj\Debug\KlijentApp.PretragaVozila.resources
+C:\Users\LEPI\Desktop\RentACar2\KlijentApp\obj\Debug\KlijentApp.Properties.Resources.resources
+C:\Users\LEPI\Desktop\RentACar2\KlijentApp\obj\Debug\KlijentApp.UnosKlijenta.resources
+C:\Users\LEPI\Desktop\RentACar2\KlijentApp\obj\Debug\KlijentApp.UnosRentiranja.resources
+C:\Users\LEPI\Desktop\RentACar2\KlijentApp\obj\Debug\KlijentApp.UnosVozila.resources
+C:\Users\LEPI\Desktop\RentACar2\KlijentApp\obj\Debug\KlijentApp.csproj.GenerateResource.cache
+C:\Users\LEPI\Desktop\RentACar2\KlijentApp\obj\Debug\KlijentApp.csproj.CoreCompileInputs.cache
+C:\Users\LEPI\Desktop\RentACar2\KlijentApp\obj\Debug\KlijentApp.csproj.CopyComplete
+C:\Users\LEPI\Desktop\RentACar2\KlijentApp\obj\Debug\KlijentApp.exe
+C:\Users\LEPI\Desktop\RentACar2\KlijentApp\obj\Debug\KlijentApp.pdb
+C:\Users\ACER\Desktop\RentACar\KlijentApp\bin\Debug\KlijentApp.exe.config
+C:\Users\ACER\Desktop\RentACar\KlijentApp\bin\Debug\KlijentApp.exe
+C:\Users\ACER\Desktop\RentACar\KlijentApp\bin\Debug\KlijentApp.pdb
+C:\Users\ACER\Desktop\RentACar\KlijentApp\bin\Debug\Domen.dll
+C:\Users\ACER\Desktop\RentACar\KlijentApp\bin\Debug\Domen.pdb
+C:\Users\ACER\Desktop\RentACar\KlijentApp\obj\Debug\KlijentApp.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\RentACar\KlijentApp\obj\Debug\KlijentApp.DetaljiRentiranja.resources
+C:\Users\ACER\Desktop\RentACar\KlijentApp\obj\Debug\KlijentApp.DetaljiVozila.resources
+C:\Users\ACER\Desktop\RentACar\KlijentApp\obj\Debug\KlijentApp.PocetnaForma.resources
+C:\Users\ACER\Desktop\RentACar\KlijentApp\obj\Debug\KlijentApp.PretragaKlijenata.resources
+C:\Users\ACER\Desktop\RentACar\KlijentApp\obj\Debug\KlijentApp.PretragaVozila.resources
+C:\Users\ACER\Desktop\RentACar\KlijentApp\obj\Debug\KlijentApp.Properties.Resources.resources
+C:\Users\ACER\Desktop\RentACar\KlijentApp\obj\Debug\KlijentApp.UnosKlijenta.resources
+C:\Users\ACER\Desktop\RentACar\KlijentApp\obj\Debug\KlijentApp.UnosRentiranja.resources
+C:\Users\ACER\Desktop\RentACar\KlijentApp\obj\Debug\KlijentApp.UnosVozila.resources
+C:\Users\ACER\Desktop\RentACar\KlijentApp\obj\Debug\KlijentApp.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\RentACar\KlijentApp\obj\Debug\KlijentApp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\RentACar\KlijentApp\obj\Debug\KlijentApp.csproj.CopyComplete
+C:\Users\ACER\Desktop\RentACar\KlijentApp\obj\Debug\KlijentApp.exe
+C:\Users\ACER\Desktop\RentACar\KlijentApp\obj\Debug\KlijentApp.pdb
