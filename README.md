@@ -1,7 +1,7 @@
 # rentACar
 
 C# desktop application - GUI in .NET framework;
-SQL database in SSMS
+SQL database in SSMS;
 Insert, search, update, delete and save records of simple and complex objects
 
 
