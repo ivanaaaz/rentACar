@@ -16,3 +16,14 @@ The system user has the following functionalities: Insert new vehicle, Search ve
 The application keeps records of all Rent a car center members, enables their search by certain values, and enables the entry of new and deletion of existing members and the change of their data.
 It is also necessary to keep records of vehicles and enable the search of vehicles according to the set values (registration number, make, model) and modification and deletion.
 The system is managed by the user (employee of the Rent a car agency).
+
+
+Use cases:
+1) Insert new vehicle
+2) Search vehicle
+3) Update vehicle
+4) Delete vehicle
+5) Insert client (complex use case)
+6) Search clients
+7) Update clients (complex use case)
+8) Delete clients
