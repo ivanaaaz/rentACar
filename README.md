@@ -2,7 +2,8 @@
 
 C# desktop application - GUI in .NET framework;
 SQL database in SSMS;
-Insert, search, update, delete and save records of simple and complex objects
+Insert, search, update, delete and save records of simple and complex objects;
+The application was developed in the Microsoft Visual Studio 2017 Community Edition environment.
 
 
 The rent-a-car company is engaged in renting vehicles to clients, of different types (small passenger vehicle, medium passenger vehicle, large passenger vehicle, van, minibus, bus). It must refresh its fleet over time, so the user is allowed to rent new vehicles. The received vehicles are entered into the fleet database.
